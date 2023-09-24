@@ -18,7 +18,9 @@ public class Arraysslistt {
                 System.out.println(name.get(i));
                }
                 // System.out.println(name); 
-                // System.out.println(name.size());                            //[bushra, shadow, moti, nushra, yy]
+                // System.out.println(name.size());   
+                
+                System.out.println("jeke");//[bushra, shadow, moti, nushra, yy]
     }
 }
 }
